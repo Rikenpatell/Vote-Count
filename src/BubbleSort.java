@@ -1,5 +1,7 @@
 import java.util.*;
 
+/** Author Riken Patel **/
+
 public class BubbleSort {
 
     public void bubbleSort(List<Integer> arr) {

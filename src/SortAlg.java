@@ -45,6 +45,9 @@ public class SortAlg {
             for (Map.Entry<String, Integer> entry : map.entrySet()) {
                 valueList.add(entry.getValue());
             }
+
+            /* Remove Comment Symbol ( // ) from the code to use sort() method */
+
             /**Bubble Sort Technique**/
             BubbleSort sort = new BubbleSort();
             /**Selection Sort Technique**/
